@@ -1,15 +1,3 @@
-/*
- * Class: CMSC203
- * Instructor: [Your Instructor's Name]
- * Description: ESP Game that tests the user's ability to guess randomly selected colors.
- * Due: MM/DD/YYYY
- * Platform/compiler: [Your Platform/Compiler]
- * I pledge that I have completed the programming assignment independently.
- * I have not copied the code from a student or any source. 
- * I have not given my code to any student.
- * Print your Name here: __________
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
